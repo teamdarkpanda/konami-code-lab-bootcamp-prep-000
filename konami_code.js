@@ -31,6 +31,7 @@ function init() {
       }
   }
   
-  const body = document.body
+  const body = document.body;
+  body.addEventListener
   
 }
