@@ -31,6 +31,6 @@ function init() {
       }
   }
   
-  
+  const body = document.body
   
 }
